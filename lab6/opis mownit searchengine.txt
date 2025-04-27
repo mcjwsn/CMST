@@ -1,0 +1,32 @@
+100 tyś słów słownik
+300 tyś artykułów
+im więcej tym lepiej
+
+latent dirichlet allocation
+
+crawler będzie dodatkowo punktowany
+
+rzadkie macierze z dużą ilością rekordów
+
+bardzo wielka i rzadka macierz na wejściu
+
+dorobić fronta(okno wyszukiwarki i wpisuje 2-10 słów kluczowych i wyszukiwarka ma zwróć najbliższe semantycznie wyniki)
+
+nie używamy odległością euklidesową
+
+korelacje, kąt pomiędzy wektorami
+
+miara jakości dopasowania będzie miara prawdopodobieństwa
+zwróć wraz z miarą prawdopodobieństwa
+
+//// bazowa wyszukiwarka naiwna ^
+
+zastosowanie ANN (nearest neighbours) ( dodatkowo) grafowe
+ HNSW Hierarchial Navigable Small World Graph  Annoy
+ewentualnie KD-Tree( raczej nie)
+
+przerobienie 6 i 7
+
+/// rozszerzamy o redukcję szumu i aproksymujemy macierzą niższego rzędu 
+
+nieprecyzyjne pytania pokazujące semantykę w tekście i podać przykłady w sprawozdaniu
